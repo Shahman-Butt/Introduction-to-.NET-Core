@@ -1,0 +1,68 @@
+ .NET Framework            .NET Core
+       |                      |
+  +----+----+              +----+----+
+  |         |              |         |
+ASP.NET     Other         ASP.NET     Other
+Framework .NET framework         Core (.NET) .NET Core Components
+
+
+.Net Core is open-source, cross-platform, has a modular architecture to develop the web applications,
+ supports multiple languages, and target multiple frameworks. Consistent, gives a high support of CLI tools,
+  flexible deployment, and has a compatibility with different OS and programming languages
+
+  .NET Doesnt support desktop applications
+
+.NET Framework 1.0 and 1.1:
+Introduced in 2002.
+
+.NET Framework 2.0 - 4.8:
+Introduced in 2005.
+
+.NET Core: (Cloud based, integration with angular, react )
+
+.NET Core 1.0 - 3.1:
+Introduced in 2016 as a cross-platform, open-source version of .NET
+Designed for building modern, lightweight, and modular applications.
+Supported Windows, macOS, and Linux.
+
+.NET 5:
+Renamed from .NET Core to emphasize that it's a unified platform.
+Introduced in 2020.
+Unified the features of .NET Core and .NET Framework.
+
+Introduction to ASP.NET Core
+ASP.NET Core is a free and open-source web framework and successor to ASP.NET,developed by Microsoft.
+ It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform
+
+ .NET Framework:
+
+ Windows Desktop Applications:
+ Windows Forms Applications
+ WPF (Windows Presentation Foundation) Applications -- 2.0-4.8
+
+ Web Applications:
+ ASP.NET Web Forms Applications
+ ASP.NET MVC Applications
+ ASP.NET Web API
+
+ Services:
+Windows Services
+WCF (Windows Communication Foundation) Services --  2.0-4.8
+LINQ -- 2.0-4.8
+
+
+ASP.NET VS ASP.NET CORE:
+ 
+The most important difference is the platform support. ASP.NET is built for Windows,
+ where ASP.NET Core runs on Windows, Mac and Linux operating system. ASP.NET is based on .NET Framework, 
+ but ASP.NET Core has all the features like dependency injection, request response pipelines and middlewares
+  introduced in .Net Core to improvise your web or internet based application. In ASP.NET we have a less control
+   over the dependencies, where in
+ASP.NET Core strict control over the dependencies with the high scalability iterations are there. 
+Where in ASP.NET Core we do not have support for Global.asax or Web config, they are far better and replaced 
+with appsettings.JSON. ASP.NET gives us support to the components like WebForms, MVC and Web API as well.
+ But in ASP.NET Core, we have a MVC support, WebAPI, Razor pages and Blazzors. ASP.NET is supported by all the 
+ versions of Visual Studio, 
+where ASP.NET Core is supported with the latest version from 2015, 2017 onwards and latest is 2022.
+
+
