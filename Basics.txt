@@ -65,4 +65,4 @@ with appsettings.JSON. ASP.NET gives us support to the components like WebForms,
  versions of Visual Studio, 
 where ASP.NET Core is supported with the latest version from 2015, 2017 onwards and latest is 2022.
 
-
+.NET Core Architecture and .NET CLI (CONTINUE)
