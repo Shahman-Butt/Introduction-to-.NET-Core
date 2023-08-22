@@ -37,7 +37,7 @@ ASP.NET Core is a free and open-source web framework and successor to ASP.NET,de
  .NET Framework:
 
  Windows Desktop Applications:
- Windows Forms Applications
+ Windows Forms Applications (GUI assitance drag and drop)
  WPF (Windows Presentation Foundation) Applications -- 2.0-4.8
 
  Web Applications:
@@ -45,7 +45,10 @@ ASP.NET Core is a free and open-source web framework and successor to ASP.NET,de
  ASP.NET MVC Applications
  ASP.NET Web API
 
- Services:
+
+ADO.NET  Active Data Objects -- DATABASE RELATED
+
+(asp.net) Services:
 Windows Services
 WCF (Windows Communication Foundation) Services --  2.0-4.8
 LINQ -- 2.0-4.8
@@ -65,4 +68,26 @@ with appsettings.JSON. ASP.NET gives us support to the components like WebForms,
  versions of Visual Studio, 
 where ASP.NET Core is supported with the latest version from 2015, 2017 onwards and latest is 2022.
 
-.NET Core Architecture and .NET CLI (CONTINUE)
+
+
+.NET Core Architecture and .NET CLI 
+
+Programming language  
+|  --COMPILER
+CIL OR MSIL (ENVIRONMENT CLR)
+|  --jit compiler 
+MACHINE CODE
+Common Type System (CTS): 
+In the context of .NET programming, CTS refers to the standard that specifies how types are defined,
+ used, and represented across different
+ programming languages in the .NET framework. It ensures that types are interoperable among different
+  languages and platforms.
+
+
+ 4 Components: (CONTINUE)
+ CLI tools
+ ROSLYN
+ COREFX
+ CORECLR (JIT BASED CLR)
+
+
