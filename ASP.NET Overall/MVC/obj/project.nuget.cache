@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mp2cWC+k6V0U6KhM0O1WdsJp2bctZX8CckHJHiCpllaaOKgQhYi8nXKHgQgjbafpUiLfu3JdZqKw6qzrYDOXhA==",
+  "dgSpecHash": "bfkyWFAzDUkj/t3PdAjtHKcirfBPVrJ3M7oZdwiFB/9+QV9McqSscugzHeN+MiGv1AZnPRcoPAJXC8VHjadI0w==",
   "success": true,
-  "projectFilePath": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Extras\\RM\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
