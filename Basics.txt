@@ -85,9 +85,64 @@ In the context of .NET programming, CTS refers to the standard that specifies ho
 
 
  4 Components: (CONTINUE)
- CLI tools
- ROSLYN
- COREFX
- CORECLR (JIT BASED CLR)
+
+ CLI tools:
+ Command line interface commands. ex: dotnet new console --name= nameofproject
+ 
+ ROSLYN:
+ .NET Compiler Platform, also known by its codename Roslyn,
+  is a set of open-source compilers and code analysis APIs for C# and Visual Basic languages from Microsoft. 
+ 
+ COREFX:
+ CoreFX is a collection of foundational libraries that provide essential functionality to .NET Core applications.
+ 
+ CORECLR (JIT BASED CLR):
+ CoreCLR is the runtime environment responsible for executing .NET Core applications. It's the successor to the traditional
+  .NET Framework's CLR. CoreCLR is designed to be lightweight, high-performance, and cross-platform. One notable feature of
+   CoreCLR is its Just-In-Time (JIT) compilation, 
+ where IL (Intermediate Language) code is compiled to native machine code at runtime, improving execution speed. 
 
 
+ MVC pattern:
+
+The MVC model defines web applications with 3 logic layers:
+
+Model (business layer)
+
+View (display layer)
+
+Controller (input control)
+
+ Loosely coupled archiectureal -
+ A model represents the shape of the data and buisness logic  and view in MVC is a user interface, 
+ but controller is the main request handler that makes an interaction between model and view. 
+ 
+
+SERVING STATIC FILES:
+ Creating empty .net web app with no https configurations and adding wwwroot folder for static files like adding index.html page and then adding middlewares
+  of usestaticfiles 
+ and usedefaultfiles in program.cs so that this middleware will render static files that are index.html that we created 
+ from wwwroot.
+app.UseStaticFiles();
+app.UseDefaultFiles();
+
+
+
+ SESSION AND STATE MANAGEMENT:
+cookies, session state, temp data, query string, hidden fields, HttpContext.Items, as well as caching.
+
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromSeconds(5);
+    options.Cookie.HttpOnly = true; 
+    options.Cookie.IsEssential = true;
+});
+app.UseSession();
+app.Run();
+
+
+ROUTING configurations:
+Different for all frameworks- mvc, razor etc
+That is further divided into two types, that is attribute routing and conventional routing.
