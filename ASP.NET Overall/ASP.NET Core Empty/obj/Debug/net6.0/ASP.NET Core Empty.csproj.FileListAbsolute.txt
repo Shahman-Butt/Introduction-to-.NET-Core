@@ -1,0 +1,22 @@
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\appsettings.Development.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\appsettings.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.staticwebassets.runtime.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.exe
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.deps.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.runtimeconfig.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.dll
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ref\ASP.NET Core Empty.dll
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\bin\Debug\net6.0\ASP.NET Core Empty.pdb
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.csproj.AssemblyReference.cache
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.AssemblyInfoInputs.cache
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.AssemblyInfo.cs
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.csproj.CoreCompileInputs.cache
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.MvcApplicationPartsAssemblyInfo.cache
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\staticwebassets.build.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\staticwebassets.development.json
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core Empty.styles.css
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.dll
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ref\ASP.NET Core Empty.dll
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.pdb
+C:\Extras\RM\Intro to .NET Core\Intro to .NET Core\ASP.NET Overall\ASP.NET Core Empty\obj\Debug\net6.0\ASP.NET Core Empty.genruntimeconfig.cache

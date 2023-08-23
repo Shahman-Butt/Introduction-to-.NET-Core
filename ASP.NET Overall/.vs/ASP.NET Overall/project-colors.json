@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e593f9d3-34f1-449a-9766-6180199e9f7f": {
+      "ProjectGuid": "e593f9d3-34f1-449a-9766-6180199e9f7f",
+      "DisplayName": "ASP.NET Core Empty",
+      "ColorIndex": 0
+    },
+    "45dd3b94-62eb-41f0-979c-18ffc02b224c": {
+      "ProjectGuid": "45dd3b94-62eb-41f0-979c-18ffc02b224c",
+      "DisplayName": "Razor",
+      "ColorIndex": 1
+    },
+    "84ff0dd6-70ec-4854-8037-fce802c61667": {
+      "ProjectGuid": "84ff0dd6-70ec-4854-8037-fce802c61667",
+      "DisplayName": "MVC",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

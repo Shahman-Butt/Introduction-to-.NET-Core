@@ -119,12 +119,14 @@ Controller (input control)
  
 
 SERVING STATIC FILES:
- Creating empty .net web app with no https configurations and adding wwwroot folder for static files like adding index.html page and then adding middlewares
+ Creating empty .net web app with no https configurations and adding wwwroot folder for static files like adding index.html page and 
+ then adding middlewares
   of usestaticfiles 
  and usedefaultfiles in program.cs so that this middleware will render static files that are index.html that we created 
  from wwwroot.
+ app.UseDefaultFiles();
 app.UseStaticFiles();
-app.UseDefaultFiles();
+
 
 
 
@@ -146,3 +148,15 @@ app.Run();
 ROUTING configurations:
 Different for all frameworks- mvc, razor etc
 That is further divided into two types, that is attribute routing and conventional routing.
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+
+
