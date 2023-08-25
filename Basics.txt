@@ -74,7 +74,8 @@ where ASP.NET Core is supported with the latest version from 2015, 2017 onwards 
 
 Programming language  
 |  --COMPILER
-CIL OR MSIL (ENVIRONMENT CLR)
+CIL OR MSIL 
+passed to (ENVIRONMENT .NET FRAMEWORK CLR) / (ENVIRONMENT .NET CORE CLR) 
 |  --jit compiler 
 MACHINE CODE
 Common Type System (CTS): 
@@ -161,3 +162,64 @@ app.MapControllerRoute(
 Hosting environment:
  cmd >> dotnet builde 
  dotnet run
+
+
+Certainly! The history of the .NET framework is quite extensive, so I'll provide a high-level overview of the major milestones, technologies, and their evolution. Keep in mind that this is a simplified explanation, and there are many more details and nuances to each step.
+
+.NET Framework (2002):
+
+Microsoft introduced the .NET Framework in 2002. It was a comprehensive software development platform that allowed developers to build Windows applications using various programming languages (C#, VB.NET, etc.).
+It included a Common Language Runtime (CLR), a class library, and support for multiple languages.
+Windows Forms and ASP.NET Web Forms were introduced to create desktop and web applications, respectively.
+It provided a rich set of libraries and APIs for building applications.
+ASP.NET MVC (2007):
+
+In response to the need for more control over web application structure and behavior, Microsoft introduced ASP.NET MVC (Model-View-Controller) in 2007.
+ASP.NET MVC offered an alternative to Web Forms, focusing on separation of concerns, testability, and cleaner code.
+Developers could build web applications using a structured pattern (MVC), which made it easier to manage complexity.
+Silverlight (2007):
+
+Silverlight was a browser plugin that aimed to provide rich multimedia experiences and interactive applications within web browsers.
+It allowed developers to build visually appealing applications that could run on multiple platforms.
+Silverlight was often used for media streaming and interactive web applications.
+Windows Presentation Foundation (WPF) (2006):
+
+WPF was introduced as a technology for building rich desktop applications with a focus on modern UI and data visualization.
+It allowed developers to create visually stunning and interactive Windows applications.
+.NET Core (2016):
+
+.NET Core was a significant departure from the traditional .NET Framework. It was a cross-platform, open-source framework designed for building modern, lightweight, and high-performance applications.
+.NET Core was designed to be modular, enabling developers to use only the components they needed.
+It supported a wider range of platforms beyond Windows, including Linux and macOS.
+ASP.NET Core (2016):
+
+ASP.NET Core was the counterpart to .NET Core, designed for building web applications and APIs.
+It provided a more flexible and modular approach to web development, improving performance and allowing developers to target multiple platforms.
+Blazor (2018):
+
+Blazor introduced a new approach to building web applications using C# and .NET libraries directly in the browser.
+It allowed developers to create interactive web UIs without relying on JavaScript. Blazor offered both server-side and client-side hosting models.
+.NET 5 and Beyond (2020):
+
+Microsoft announced that ".NET Core" and ".NET Framework" would be unified into a single ".NET" platform starting with .NET 5.
+The goal was to provide a consistent platform for building applications across different types of devices and scenarios.
+.NET 5 was followed by subsequent versions like .NET 6, each adding new features, improvements, and optimizations.
+This progression shows how the .NET ecosystem has evolved to accommodate changing technology trends and developer needs. The move towards open-source, cross-platform compatibility, and modern application architectures has been central to this evolution.
+
+
+https://www.youtube.com/watch?v=X75vbT-Yv-c
+
+
+.net core vs framework:
+
+-- Works on most platforms 
+--Faster- framework had too many patcthes as it came in 2002.
+-- Modular: framework was a whole package but core was just core that you need  ex: hello world doesnt need cryptography
+-- logging and dependency injections built in in mvc core *
+--open source*
+
+  .NET STANDARD:
+
+Common interface of APIS for any .NET Implementaion 
+
+  .NET F UI => .NET F CLASS library => .NET STANDARD CLASS LIBRARY => .NET CORE UI => .NET CORE CLASS LIBRARY
