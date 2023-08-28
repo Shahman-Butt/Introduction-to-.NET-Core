@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6gOA3/vpP8zH2NzIkc4nYqCnmOM9IyQupiwrT01F8J4rzKFmBEPzz04f6P8RB4dgwtUeA7iwd1ILa9Yhu9OqpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

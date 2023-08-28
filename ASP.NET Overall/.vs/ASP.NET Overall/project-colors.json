@@ -15,7 +15,12 @@
       "ProjectGuid": "84ff0dd6-70ec-4854-8037-fce802c61667",
       "DisplayName": "MVC",
       "ColorIndex": 2
+    },
+    "875d086c-19f4-4fff-9870-34f2c55be0fb": {
+      "ProjectGuid": "875d086c-19f4-4fff-9870-34f2c55be0fb",
+      "DisplayName": "ConsoleProject",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

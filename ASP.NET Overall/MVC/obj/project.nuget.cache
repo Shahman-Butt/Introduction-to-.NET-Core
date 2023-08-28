@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfkyWFAzDUkj/t3PdAjtHKcirfBPVrJ3M7oZdwiFB/9+QV9McqSscugzHeN+MiGv1AZnPRcoPAJXC8VHjadI0w==",
+  "dgSpecHash": "0Tyw8ETARGGvsdiPSwXoj53//oNVHf0h60UFhVY1w97WlAjXHKRHEuYfzUIK3Gx06ijMUKk6adi60ttvZsKPeA==",
   "success": true,
-  "projectFilePath": "C:\\Extras\\RM\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\mohammad.shahman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

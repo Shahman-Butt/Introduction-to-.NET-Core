@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj": {}
+    "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj": {}
   },
   "projects": {
-    "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj": {
+    "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj",
+        "projectUniqueName": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj",
         "projectName": "ASP.NET Core Empty",
-        "projectPath": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj",
+        "projectPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\ASP.NET Core Empty.csproj",
         "packagesPath": "C:\\Users\\mohammad.shahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\obj\\",
+        "outputPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

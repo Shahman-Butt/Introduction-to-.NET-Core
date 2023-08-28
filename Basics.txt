@@ -40,10 +40,12 @@ ASP.NET Core is a free and open-source web framework and successor to ASP.NET,de
  Windows Forms Applications (GUI assitance drag and drop)
  WPF (Windows Presentation Foundation) Applications -- 2.0-4.8
 
- Web Applications:
- ASP.NET Web Forms Applications
- ASP.NET MVC Applications
- ASP.NET Web API
+ ASP.NET (Web Applications):                |  ASP.NET CORE:   (WE CAN MIX ALL)
+ ASP.NET Web Forms Applications             |  RAZOR PAGES
+ ASP.NET MVC Applications                   |  MVC
+ ASP.NET Web API                            |  API
+                                            |  BLAZOR server
+                                            |  BLAZOR WEBASSEMBLY
 
 
 ADO.NET  Active Data Objects -- DATABASE RELATED
@@ -215,11 +217,33 @@ https://www.youtube.com/watch?v=X75vbT-Yv-c
 -- Works on most platforms 
 --Faster- framework had too many patcthes as it came in 2002.
 -- Modular: framework was a whole package but core was just core that you need  ex: hello world doesnt need cryptography
--- logging and dependency injections built in in mvc core *
---open source*
+-- logging and dependency injections built in in mvc core 
+--open source
 
   .NET STANDARD:
 
 Common interface of APIS for any .NET Implementaion 
 
   .NET F UI => .NET F CLASS library => .NET STANDARD CLASS LIBRARY => .NET CORE UI => .NET CORE CLASS LIBRARY
+
+
+Environment variables:
+
+ASPNETCORE_ENVIRONMENT in launchssettings.json
+
+Dependency Injection:
+
+
+DI achieved using interfaces and used for decoupling where usually injected into constructors.
+In Dependency Injection, services can be registered with different lifetimes to control how instances are
+ created and managed. The commonly used lifetimes are:
+Transient: A new instance is created every time the service is requested. Transient services are
+ suitable for lightweight, stateless services.
+Scoped: A single instance is created and shared within the scope of a single request.
+ Scoped services are often used in web applications.
+Singleton: A single instance is created and shared throughout the entire application's lifetime.
+
+project:   Console project
+
+registering services and containers **??
+
