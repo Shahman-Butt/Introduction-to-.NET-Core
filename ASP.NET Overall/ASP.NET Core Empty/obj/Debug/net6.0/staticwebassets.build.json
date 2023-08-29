@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xBsxkhrjERh0hEjqMgKb7Qz4BvuIYi9jCguR3L4unj8=",
+  "Hash": "4DoB2eiaEj6lo4UHBKWf30UbXk/FMN+J1MZ/mCoIJqQ=",
   "Source": "ASP.NET Core Empty",
   "BasePath": "_content/ASP.NET Core Empty",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ASP.NET Core Empty\\wwwroot",
       "Source": "ASP.NET Core Empty",
-      "ContentRoot": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\",
+      "ContentRoot": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\",
       "BasePath": "_content/ASP.NET Core Empty",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\index.html",
+      "Identity": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\index.html",
       "SourceId": "ASP.NET Core Empty",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Extras\\RM\\Intro to .NET Core\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\",
+      "ContentRoot": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ASP.NET Core Empty\\wwwroot\\",
       "BasePath": "_content/ASP.NET Core Empty",
       "RelativePath": "index.html",
       "AssetKind": "All",

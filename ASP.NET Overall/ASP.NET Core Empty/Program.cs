@@ -1,3 +1,5 @@
+using ASP.NET_Core_Empty.Middlewares;
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
@@ -8,9 +10,18 @@ var app = builder.Build();
 //    options.Cookie.HttpOnly = true;
 //    options.Cookie.IsEssential = true;
 //});
+
+
+app.UseFirstMiddleware();
+
+
 app.UseDefaultFiles();
 
 app.UseStaticFiles();
+
+
+
+
 //app.UseSession();
 //app.UseSession();
 

@@ -247,3 +247,44 @@ project:   Console project
 
 registering services and containers **??
 
+Middleware Pipeline: (Builtin / custm)
+The individual components that make up the pipeline is called a Middleware.
+Whenever a user sends a request in .NET Core application request comes to this Kestrel server. 
+As I told you, .NET Core applications are cross platform. Kestrel is a server that being supported by multiple operating system.
+ In Microsoft .NET framework, this server was IIS that was supported by Microsoft Windows only. So once the request
+  comes to this Kestrel server, server sends the request to the request pipeline where multiple middleware as I told you,
+   each delegate function which is called a Middleware is attached to this request pipeline.
+ For performing authentication, logging, routing, session management, exception handling and whatnot more. 
+
+
+(EMPTYCORE Project Middleware implemented)
+
+ Global exception handling with custom middleware: (By using cutsom middlewares)
+
+Targetting multiple frameworks using .csproj file and changing <TragetFramework>net6</TragetFramework> to 
+<TragetFrameworks>netStandard2.0;.net6</TragetFrameworks>
+
+Code Sharing:
+Class Libraries, Nuget packages, .netSTANDARDlIBRARIES
+
+
+https://www.tutorialspoint.com/asp.net/asp.net_introduction.htm **
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
