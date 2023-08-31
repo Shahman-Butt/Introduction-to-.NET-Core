@@ -11,16 +11,11 @@ var app = builder.Build();
 //    options.Cookie.IsEssential = true;
 //});
 
-
 app.UseFirstMiddleware();
-
 
 app.UseDefaultFiles();
 
 app.UseStaticFiles();
-
-
-
 
 //app.UseSession();
 //app.UseSession();
@@ -30,3 +25,4 @@ app.UseStaticFiles();
 //app.MapGet("/hello")
 
 app.Run();
+

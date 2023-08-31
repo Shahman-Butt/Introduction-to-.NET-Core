@@ -4,35 +4,120 @@
   |         |              |         |
 ASP.NET     Other         ASP.NET     Other
 Framework .NET framework         Core (.NET) .NET Core Components
+   
+   
+.NET Core (Runtime, BCL, CoreFX) --- 2016
+      |
+      ├── ASP.NET Core Libraries (MVC, Razor Pages, SignalR, etc.) --- 2016
+      |
+      ├── ASP.NET Core Applications
+      |    ├── MVC Applications --- 2016
+      |    ├── Razor Pages Applications --- 2016
+      |    ├── Web API Applications --- 2016
+      |    └── SignalR Applications --- 2018
+      |        
+      ├── Middleware (Authentication, Routing, Logging, etc.) --- Part of ASP.NET Core
+      |        
+      |── Hosting (Kestrel, IIS, Self-Hosting, etc.) --- Part of ASP.NET Core
+      |        
+      |── Dependency Injection --- Part of ASP.NET Core
+      |
+      ├── Desktop Applications
+      |    ├── WPF Applications --- 2018
+      |    ├── Windows Forms Applications --- Not a core focus of .NET Core
+      |    └── UWP Applications --- Not a core focus of .NET Core
+      |
+      └── ...
 
 
-.Net Core is open-source, cross-platform, has a modular architecture to develop the web applications,
- supports multiple languages, and target multiple frameworks. Consistent, gives a high support of CLI tools,
-  flexible deployment, and has a compatibility with different OS and programming languages
 
-  .NET Doesnt support desktop applications
 
-.NET Framework 1.0 and 1.1:
-Introduced in 2002.
+     .NET Framework (Runtime, BCL, CoreFX) --- 2002
+      |
+      ├── ASP.NET Libraries (Web Forms, MVC, Web API, etc.) --- 2002
+      |
+      ├── ASP.NET Applications
+      |    ├── Web Forms Applications --- 2002
+      |    ├── MVC Applications --- 2007
+      |    ├── Web API Applications --- 2012
+      |    └── ...
+      |        
+      ├── Windows Presentation Foundation (WPF) Applications --- 2006
+      |
+      ├── Windows Forms Applications --- 2003
+      |
+      ├── Universal Windows Platform (UWP) Applications --- 2015
+      |
+      ├── Windows Services --- Included with the .NET Framework
+      |
+      ├── Windows Communication Foundation (WCF) Services --- 2006
+      |
+      ├── Entity Framework (EF) Framework --- 2007
+      |
+      └── ...
 
-.NET Framework 2.0 - 4.8:
-Introduced in 2005.
 
-.NET Core: (Cloud based, integration with angular, react )
 
-.NET Core 1.0 - 3.1:
-Introduced in 2016 as a cross-platform, open-source version of .NET
-Designed for building modern, lightweight, and modular applications.
-Supported Windows, macOS, and Linux.
+.NET Core is an open-source, cross-platform framework with a modular architecture designed for developing web applications. It supports multiple languages and targets various frameworks. It provides a consistent development experience, offering high support for CLI tools, flexible deployment options, and compatibility with different operating systems and programming languages.
 
-.NET 5:
-Renamed from .NET Core to emphasize that it's a unified platform.
-Introduced in 2020.
-Unified the features of .NET Core and .NET Framework.
+However, it's important to note that .NET Core does not support desktop applications.
 
-Introduction to ASP.NET Core
-ASP.NET Core is a free and open-source web framework and successor to ASP.NET,developed by Microsoft.
- It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform
+.NET Core:
+.NET Core 1.0 - 3.1 (2016 - 2019):
+- Introduced as a cross-platform, open-source version of .NET.
+- Designed for building modern, lightweight, and modular applications.
+- Supported Windows, macOS, and Linux.
+
+.NET 5 (2020):
+- Renamed from ".NET Core" to emphasize its unified nature.
+- Unified the features of both .NET Core and .NET Framework.
+- Introduced new features, optimizations, and improvements.
+
+Introduction to ASP.NET Core:
+ASP.NET Core is a free and open-source web framework developed by Microsoft, succeeding ASP.NET. It's a modular framework that runs on both the full .NET Framework (Windows) and cross-platform environments.
+
+.NET Framework:
+Windows Desktop Applications:
+- Windows Forms Applications (GUI assistance using drag and drop).
+- Windows Presentation Foundation (WPF) Applications (2.0 - 4.8) for modern UI and data visualization.
+
+ASP.NET (Web Applications):
+- ASP.NET Web Forms Applications.
+- ASP.NET MVC Applications.
+- ASP.NET Web API Applications.
+
+Services in ASP.NET Core:
+- ASP.NET Core Libraries:
+  - MVC (Model-View-Controller).
+  - Razor Pages.
+  - SignalR (for real-time communication).
+- ASP.NET Core Applications:
+  - MVC Applications.
+  - Razor Pages Applications.
+  - Web API Applications.
+  - SignalR Applications.
+- Middleware (Authentication, Routing, Logging, etc.).
+- Hosting (Kestrel, IIS, Self-Hosting, etc.).
+- Dependency Injection (DI) for managing dependencies and improving testability.
+
+Desktop Applications in .NET Framework:
+- WPF Applications for modern and interactive desktop apps.
+- Windows Forms Applications with GUI components.
+- Universal Windows Platform (UWP) Applications for Windows 10.
+
+The evolution of the .NET ecosystem:
+.NET Core (2016):
+- Introduced as a cross-platform and open-source framework.
+- Supported Windows, macOS, and Linux.
+
+.NET 5 and Beyond (2020):
+- Unified ".NET Core" and ".NET Framework" into a single ".NET" platform.
+- Introduced new versions with features, improvements, and optimizations.
+
+Difference between .NET Core and ASP.NET Framework:
+- .NET Core is modular, lightweight, and cross-platform.
+- ASP.NET Framework is Windows-specific and less modular.
+
 
  .NET Framework:
 
@@ -72,49 +157,50 @@ where ASP.NET Core is supported with the latest version from 2015, 2017 onwards 
 
 
 
-.NET Core Architecture and .NET CLI 
+.NET Core Architecture and .NET CLI:
 
-Programming language  
-|  --COMPILER
-CIL OR MSIL 
-passed to (ENVIRONMENT .NET FRAMEWORK CLR) / (ENVIRONMENT .NET CORE CLR) 
-|  --jit compiler 
-MACHINE CODE
-Common Type System (CTS): 
-In the context of .NET programming, CTS refers to the standard that specifies how types are defined,
- used, and represented across different
- programming languages in the .NET framework. It ensures that types are interoperable among different
-  languages and platforms.
+Programming Language
+|
+|-- Compiler
+Common Intermediate Language (CIL) or Microsoft Intermediate Language (MSIL)
+Passed to Environment (CLR) for .NET Framework or .NET Core CLR
+|
+|-- JIT Compiler
+Machine Code
+Common Type System (CTS):
+CTS defines how types are defined, used, and represented across different programming languages in the .NET framework. It ensures type interoperability across languages and platforms.
 
+4 Components:
 
- 4 Components: (CONTINUE)
+1. CLI Tools:
+CLI tools include command-line interface commands. For example: `dotnet new console --name=projectName`.
 
- CLI tools:
- Command line interface commands. ex: dotnet new console --name= nameofproject
- 
- ROSLYN:
- .NET Compiler Platform, also known by its codename Roslyn,
-  is a set of open-source compilers and code analysis APIs for C# and Visual Basic languages from Microsoft. 
- 
- COREFX:
- CoreFX is a collection of foundational libraries that provide essential functionality to .NET Core applications.
- 
- CORECLR (JIT BASED CLR):
- CoreCLR is the runtime environment responsible for executing .NET Core applications. It's the successor to the traditional
-  .NET Framework's CLR. CoreCLR is designed to be lightweight, high-performance, and cross-platform. One notable feature of
-   CoreCLR is its Just-In-Time (JIT) compilation, 
- where IL (Intermediate Language) code is compiled to native machine code at runtime, improving execution speed. 
+2. Roslyn:
+Roslyn is the .NET Compiler Platform, an open-source set of compilers and code analysis APIs for C# and Visual Basic languages from Microsoft.
 
+3. CoreFX:
+CoreFX is a collection of foundational libraries providing essential functionality to .NET Core applications.
 
- MVC pattern:
+4. CoreCLR (JIT-based CLR):
+CoreCLR is the runtime environment responsible for executing .NET Core applications. It's the successor to the traditional .NET Framework's CLR. CoreCLR is designed to be lightweight, high-performance, and cross-platform. A notable feature is its Just-In-Time (JIT) compilation, where Intermediate Language (IL) code is compiled to native machine code at runtime, enhancing execution speed.
 
-The MVC model defines web applications with 3 logic layers:
+MVC Pattern:
 
-Model (business layer)
+The Model-View-Controller (MVC) pattern defines web applications with three logical layers:
+- Model (business layer)
+- View (display layer)
+- Controller (input control)
 
-View (display layer)
+The MVC architecture is loosely coupled, with each component handling specific tasks. A model represents data and business logic, a view is the user interface, and a controller manages interactions between the model and view.
 
-Controller (input control)
+Serving Static Files:
+
+To serve static files in a .NET web app:
+1. Create an empty .NET web app without HTTPS configurations.
+2. Add a "wwwroot" folder for static files, including an "index.html" page.
+3. Use middlewares like `UseStaticFiles` and `UseDefaultFiles` in the `program.cs` to render static files.
+   Example: 
+
 
  Loosely coupled archiectureal -
  A model represents the shape of the data and buisness logic  and view in MVC is a user interface, 
