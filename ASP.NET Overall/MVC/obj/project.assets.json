@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
+      "projectUniqueName": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
+      "projectPath": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\mohammad.shahman\\.nuget\\packages\\",
-      "outputPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\MVC\\obj\\",
+      "outputPath": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

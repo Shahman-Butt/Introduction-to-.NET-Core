@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj": {}
+    "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj": {}
   },
   "projects": {
-    "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj": {
+    "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj",
+        "projectUniqueName": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj",
         "projectName": "ConsoleProject",
-        "projectPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj",
+        "projectPath": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\ConsoleProject.csproj",
         "packagesPath": "C:\\Users\\mohammad.shahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Extras\\My work\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\obj\\",
+        "outputPath": "C:\\Extras\\My work\\Self tasks\\Intro to .NET Core\\ASP.NET Overall\\ConsoleProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

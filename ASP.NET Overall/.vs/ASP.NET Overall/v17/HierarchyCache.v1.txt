@@ -1,0 +1,390 @@
+﻿++Solution 'ASP.NET Overall' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:ASP.NET Overall.sln
+++ASP.NET Core Empty
+i:{00000000-0000-0000-0000-000000000000}:ASP.NET Core Empty
+++Connected Services 
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:>745
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:>744
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:>746
+++Dependencies
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:>742
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:>419
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:>741
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:>743
+++Properties
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\properties\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\properties\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\properties\
+++wwwroot
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\wwwroot\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\
+++Middlewares
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\middlewares\
+++appsettings.json
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\appsettings.json
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\appsettings.json
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\appsettings.json
+++Program.cs
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\program.cs
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\program.cs
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\program.cs
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\program.cs
+++No service dependencies discovered
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:>749
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:>747
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:>748
+++Analyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:analyzers
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:analyzers
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:analyzers
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:analyzers
+++Frameworks
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:frameworks
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:frameworks
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:frameworks
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:frameworks
+++launchSettings.json
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\properties\launchsettings.json
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\properties\launchsettings.json
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\properties\launchsettings.json
+++index.html
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\wwwroot\index.html
+++FirstMiddleware.cs
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\middlewares\firstmiddleware.cs
+++appsettings.Development.json
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\appsettings.development.json
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\appsettings.development.json
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\microsoft.aspnetcore.app
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\microsoft.aspnetcore.app
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e593f9d3-34f1-449a-9766-6180199e9f7f}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\asp.net core empty\microsoft.netcore.app
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\microsoft.netcore.app
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\microsoft.netcore.app
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\microsoft.netcore.app
+++ConsoleProject
+i:{00000000-0000-0000-0000-000000000000}:ConsoleProject
+++CreditCardProcessor.cs
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\creditcardprocessor.cs
+++IPaymentProcessor.cs
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\ipaymentprocessor.cs
+++OrderService.cs
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\orderservice.cs
+++PayPalProcessor.cs
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\consoleproject\paypalprocessor.cs
+++Packages
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:packages
+++Microsoft.Extensions.DependencyInjection (7.0.0)
+i:{875d086c-19f4-4fff-9870-34f2c55be0fb}:>756
+++Razor
+i:{00000000-0000-0000-0000-000000000000}:Razor
+++Pages
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\
+++css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\css\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\css\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\js\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\js\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\
+++favicon.ico
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\favicon.ico
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\favicon.ico
+++Shared
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\shared\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\shared\
+++_ViewImports.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\_viewimports.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\_viewstart.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\_viewstart.cshtml
+++Error.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\error.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\shared\error.cshtml
+++Index.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\index.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\home\index.cshtml
+++Privacy.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\privacy.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\home\privacy.cshtml
+++site.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\css\site.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\css\site.css
+++site.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\js\site.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\js\site.js
+++bootstrap
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation-unobtrusive\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\shared\_layout.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\shared\_validationscriptspartial.cshtml
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\privacy.cshtml.cs
+++dist
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\dist\
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\dist\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\dist\
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\license
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\license.txt
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\license.txt
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\license.md
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\pages\shared\_layout.cshtml.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\shared\_layout.cshtml.css
+++jquery.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\dist\jquery.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\dist\jquery.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\jquery\dist\jquery.min.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{45dd3b94-62eb-41f0-979c-18ffc02b224c}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\razor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++MVC
+i:{00000000-0000-0000-0000-000000000000}:MVC
+++Controllers
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\controllers\
+++Models
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\models\
+++Views
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\
+++HomeController.cs
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\models\errorviewmodel.cs
+++Home
+i:{84ff0dd6-70ec-4854-8037-fce802c61667}:c:\extras\my work\self tasks\intro to .net core\asp.net overall\mvc\views\home\
